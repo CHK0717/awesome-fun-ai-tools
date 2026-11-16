@@ -45,6 +45,7 @@ Perfect for weekend tinkering, inspiration, or just wasting time in delightful w
 - [Diffusion Illusions Playground](https://diffusionillusions.com/) — Generate hidden images and trippy illusions.  
 - [Quick, Draw!](https://quickdraw.withgoogle.com/) — Play Pictionary with an AI guessing your doodles.  
 - [Face Shape Detector](https://faceshape-detect.com/) — Upload a photo to detect your face shape and get hairstyle / glasses suggestions. 
+- [FaceRater](https://facerater.io/) — Explore facial symmetry and proportions with a landmark overlay and a photo-geometry reference score.
 - [Botnik Predictive Writer](https://botnik.org/apps/writer/) — A “joke keyboard” that predicts silly next words, producing absurdist text.  
 - [AI Weirdness](https://www.aiweirdness.com/) — A blog turning AI loose on strange datasets (like inventing cat names).  
 
